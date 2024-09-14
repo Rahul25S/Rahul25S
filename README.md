@@ -1,6 +1,5 @@
-## Hi there 👋 It's me Hareesh
+## Hi there 👋 It's me Rahul S
 
-##👋 Hi, I’m Rahul S
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on exciting full-stack projects
