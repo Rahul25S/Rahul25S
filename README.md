@@ -7,6 +7,8 @@
 </h1>
 <h3 align="center">A Versatile Full Stack Developer from Tamil Nadu, India</h3>
 
+ <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
+
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on exciting full-stack projects
