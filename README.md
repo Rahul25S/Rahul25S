@@ -21,5 +21,5 @@
 <img width="60" height="60" src="https://img.icons8.com/color/48/git.png" alt="git"/><img height="60" width="60" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img width="60" height="60" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/>
 
-![Rahul's LeetCode Stats](https://leetcard.jacoblin.cool/rahuls25?theme=dark&font=Marcellus)
+[![Rahul's LeetCode Stats](https://leetcard.jacoblin.cool/rahuls25?theme=dark&font=Marcellus)]
 [![Rahul's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul25S&bg_color=000000&color=ffffff&line=00ff59&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
