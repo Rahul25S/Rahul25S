@@ -6,13 +6,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+,All+!+%F0%9F%91%8B+;+I'm+Rahul!" alt="Rahul" /></a>
 </h1>
 <h3 align="center">A Versatile Full Stack Developer from Tamil Nadu, India</h3>
-
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
 
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on exciting full-stack projects
-- 💬 How to reach me: [portfolio](https://rahul25s.netlify.app)!
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rahul25s.netlify.app)!
+- 💬 How to reach me: **rahul11022004@gmail.com**
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I have a background in video editing and am also a YouTuber, which helps me bring a creative perspective to my coding projects!
 ### I code in
