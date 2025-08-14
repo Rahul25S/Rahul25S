@@ -38,8 +38,8 @@
       <br>Tailwind
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=oraclesql" width="48" height="48" alt="oraclesql" />
-      <br>Oracle SQL
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>MY SQL
     </td>
    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -60,11 +60,12 @@
 
 ## Top Open Source Projects
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=Portfolio-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Portfolio-website)
-[![Flipkart Product Review Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=Flipkart_Product_Review_Sentiment_Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Flipkart_Product_Review_Sentiment_Analysis)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Rahul25S&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rahul25S/Portfolio)
+[![AniHub Tamil](https://github-readme-stats.vercel.app/api/pin/?username=Rahul25S&repo=AniHubTamil_Frontend-React.js-&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rahul25S/AniHubTamil_Frontend-React.js-)
+
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiprakashoffcl&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul25S&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 <br clear="both">
