@@ -3,106 +3,37 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+,All+!+%F0%9F%91%8B+;+I'm+Jai+Prakash!" alt="Jai Prakash" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+,All+!+%F0%9F%91%8B+;+I'm+Jai+Prakash!" alt="Rahul" /></a>
 </h1>
-<h3 align="center">A Versatile Full Stack Developer and a Machine Learning Enthusiast from Tamil Nadu, India</h3>
+<h3 align="center">A Versatile Full Stack Developer from Tamil Nadu, India</h3>
 
-<br>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jaiprakashoffcl&theme=tokyonight" alt="jaiprakashoffcl">
-  </a>
-</p>
-
-<p align="center"><a href="https://github.com/jaiprakashoffcl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/jaiprakashoffcl" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jai-prakash-ramesh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@jaiprakash292033" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p> 
-</br>
-
- <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
- 
-- 🌱 I’m currently learning **Machine Learning, Python, Full Stack Web Development**
-
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-website-jaiprakash-three.vercel.app/)
-
-- 💬 Ask me about **Machine Learning, Python, Full Stack Web Development**
-
-- 📫 How to reach me **jaiprakash292033@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1kFfZCq1MvnWyvpjr3UR4WHGlvElIr0yc/edit?usp=drivesdk&ouid=116384036152653188423&rtpof=true&sd=true)
-</p>
-<br> 
-
-<!--START_SECTION:waka-->
- I'm an Early🐤
-
-```text
-🌞 Morning                200 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-🌆 Daytime                212 commits        ███████████░░░░░░░░░░░░░░   43.15 % 
-🌃 Evening                198 commits        ████████░░░░░░░░░░░░░░░░░   33.95 % 
-🌙 Night                  76 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-```
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: India/Asia
-
-💬 Programming Languages: 
-Python                   10 hrs 8 mins       ███████████████████░░░░░░   76.65 % 
-CSS                      2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 63 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  15 hrs 63 mins      █████████████████████████   100.00 % 
-```
-
+- 👀 I’m interested in Full-Stack Development
+- 🌱 I’m currently learning Backend Development
+- 💞️ I’m looking to collaborate on exciting full-stack projects
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rahul25s.netlify.app)!
+- 💬 How to reach me: **rahul11022004@gmail.com**
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: I have a background in video editing and am also a YouTuber, which helps me bring a creative perspective to my coding projects!
 ## Languages and Tools
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
-      <br>Pandas
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="65" height="65">
-    <br>Selenium
-    </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
     </td>
+    
      <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
-      <br>Keras
-    </td>
-   <td align="center" width="96">
-      <img src="https://matplotlib.org/3.3.4/_static/logo2_compressed.svg" alt="Matplotlib" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
-      <br>Matplotlib
-    </td>
   </tr>
   <tr>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -116,21 +47,9 @@ Windows                  15 hrs 63 mins      ███████████�
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
     </td>
-      <td align="center" width="96">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
-      <br>NumPy
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-     <td align="center" width="96">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
-     <br>OpenCV
-     </td>
       </td>
   
  </tr>
