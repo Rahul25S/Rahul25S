@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+,All+!+%F0%9F%91%8B+;+I'm+Jai+Prakash!" alt="Rahul" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+,All+!+%F0%9F%91%8B+;+I'm+Rahul!" alt="Rahul" /></a>
 </h1>
 <h3 align="center">A Versatile Full Stack Developer from Tamil Nadu, India</h3>
 
@@ -25,15 +25,12 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
-    
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
