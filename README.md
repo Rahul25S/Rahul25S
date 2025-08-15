@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rahul25s.netlify.app)!
 - 💬 How to reach me: **rahul11022004@gmail.com**
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I have a background in video editing and am also a YouTuber, which helps me bring a creative perspective to my coding projects!
+- ⚡ Fun fact: I have a background in video editing and am also a YouTuber!
 ## Languages and Tools
 <table align="center">
   <tr>
@@ -68,12 +68,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul25S&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
 
  
