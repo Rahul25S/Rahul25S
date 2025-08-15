@@ -13,8 +13,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rahul25s.netlify.app)!
 - 💬 How to reach me: **rahul11022004@gmail.com**
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I have a background in video editing and am also a YouTuber! ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCmVv0D-vd9bhYw-A4NAjaHg
-)
+- ⚡ Fun fact: I have a background in video editing and am also a YouTuber!
 ## Languages and Tools
 <table align="center">
   <tr>
@@ -65,10 +64,8 @@
 [![AniHub Tamil](https://github-readme-stats.vercel.app/api/pin/?username=Rahul25S&repo=AniHubTamil_Frontend-React.js-&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rahul25S/AniHubTamil_Frontend-React.js-)
 
 
-<div align="center">
    ![LeetCode Stats](https://leetcard.jacoblin.cool/Rahuls25?theme=light&font=Marcellus&ext=heatmap)
-   [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul25S&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul25S&bg_color=000000&color=ffffff&line=37fe34&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  
